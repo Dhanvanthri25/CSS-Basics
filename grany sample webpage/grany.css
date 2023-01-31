@@ -1,0 +1,37 @@
+
+body{
+    background-color:rgb(4, 0, 134);
+}
+.div1{
+    background-image: url(fd.jpg);
+    width: 90vw;
+    height:90vh;
+    background-size: contain;
+    background-repeat: repeat-y;
+}
+.div2{
+    text-align: center;
+    padding-top:15%;
+    color:rgb(189, 24, 24);
+    font-size: larger;
+}
+#off{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+    font-weight: 300;
+    font-size: 50px;
+    
+}   
+#huge{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+    font-weight:500;
+    font-size: 70px;
+} 
+button{
+     box-sizing: border-box;
+     height: 45px;   
+
+    color: rgb(8, 1, 1);
+    border-color: rgb(10, 1, 1);
+}

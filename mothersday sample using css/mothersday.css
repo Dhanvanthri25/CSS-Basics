@@ -1,0 +1,35 @@
+.div1{
+    width: 1000px;
+    height: 50%;
+    border: 2px solid black;
+    background-image: linear-gradient(to right, rgb(226, 77, 77), rgb(172, 16, 5));
+}
+.div2{
+    margin: 100px;
+    width: 60%;
+    height:40%;
+    border:1px solid black;
+    padding: 4%;
+    background-image:url("img.jpg");
+    background-size:cover;
+    
+    background-color: rgb(253, 153, 210);
+}
+h3{
+    color: rgb(226, 41, 41);
+}
+h1{
+    font-size:50px;
+    color: rgb(226, 41, 41);
+}
+button{
+    box-sizing: border-box;
+    width: 100px;
+    height: 35px;
+    color: white;
+    background-color: rgb(146, 226, 41);
+
+}
+p{
+    color:burlywood;
+}

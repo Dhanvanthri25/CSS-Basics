@@ -1,0 +1,12 @@
+body{
+    background-image:url("image.jpg");
+    background-size:cover;
+    color: aliceblue;
+
+}
+div{
+    padding:25%;
+}
+#bbb1,#bbb2{
+    -webkit-background-clip:text;
+}
