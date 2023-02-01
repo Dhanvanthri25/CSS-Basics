@@ -1,0 +1,47 @@
+body{
+    background-image: url("img.jpg");
+    color: white;
+    background-size: cover;
+}
+div{
+    background-color:rgb(122, 14, 102);
+    margin: 5% 30%  ;
+    padding: 5%;
+    width:500px;
+    height: max-content;
+    border: 8px solid rgb(1, 1, 16);
+}
+
+
+h1{font-variant: small-caps;
+    text-align: center;
+    font-size:50px;
+    font-weight: 900; 
+   
+}
+.p1{
+    text-align:justify;  
+}
+#name1,#msg1,#mail1{
+    box-sizing: border-box;
+    width: 450px;
+    height: 50px;
+    border-top: none;
+    border-left: none;
+    border-right:none;
+    border-bottom-color:rgb(255, 0, 187);
+    background-color: rgb(66, 4, 47);
+    
+} 
+
+#but1{
+
+    box-sizing: border-box;
+    width: 80px;
+    height: 40px;
+    font-variant:small-caps;
+    background-color: rgb(16, 4, 66);
+    border-style:solid;
+    border-color:rgb(8, 1, 1);
+    color: rgb(255, 248, 248);
+}
