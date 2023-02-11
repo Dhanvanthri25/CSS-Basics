@@ -1,0 +1,97 @@
+.body1{
+    background-image: url(https://images.pexels.com/photos/2440024/pexels-photo-2440024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+    background-repeat: repeat-x;
+    height: 700px;
+    color: whitesmoke;
+
+    
+}
+.signup{
+    border: 5px solid black;  
+    height:465px;
+    width:370px;
+    background-image: url(img2.jpg);
+    padding-left: 38px;
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    margin-top: 100px;
+    background-size: cover;
+    border-radius: 70px;
+    background: transparent;
+    
+
+    
+
+}
+ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
+input{
+    background: transparent;
+    box-sizing: border-box;
+    margin-top: 10px;
+    height: 45px;
+    width: 250px;
+    border:none;
+    border-bottom: 2px solid whitesmoke;
+    outline: none;
+    color: black;
+
+
+}
+#sub1{
+    border-radius: 80px;
+    color: aqua;
+    background-color: black;
+    margin-left: 30px;
+    margin-bottom: 700px;
+
+    
+    
+
+}
+.login{
+    border: 5px solid black;
+    height:400px ;
+    width:370px;
+    position: absolute;
+    left: 600px;
+    top: 10px;
+    background-image:url(img2.jpg);
+    margin-top: 100px;
+   padding-left: 10px;
+   background-size: cover;
+   border-radius: 70px;
+   background: transparent;
+   
+}
+#cbox{
+    box-sizing: border-box;
+    height:15px;
+    width:15px;
+}
+#sub2{
+    border-radius: 80px;
+    color: aqua;
+    background-color: black;
+    margin-top: 100px;
+    margin-left:45px;
+    
+    
+    
+
+}
+ol li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
+::placeholder{
+    color: whitesmoke;
+
+
+}
